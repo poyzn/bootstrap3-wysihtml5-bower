@@ -1,3 +1,7 @@
+**THIS LIBRARY IS DEPRECATED IN FAVOR OF https://github.com/bootstrap-wysiwyg/bootstrap3-wysiwyg.**
+
+Please report issues in the new repository where [schnawel007](https://github.com/schnawel007) and me joined our force. You are also invited to join our organization and contribute to the library.
+
 # Overview
 
 Bootstrap-wysihtml5 is a javascript plugin that makes it easy to create simple, beautiful wysiwyg editors with the help of [wysihtml5](https://github.com/xing/wysihtml5) and [Twitter Bootstrap](http://twitter.github.com/bootstrap/).
